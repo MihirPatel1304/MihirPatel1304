@@ -28,11 +28,11 @@ Full-stack app that combines manual entries, GitHub commits, and Spotify listeni
 `React` `TypeScript` `ASP.NET Core` `SQLite`
 
 **[Hot Properties](https://github.com/MihirPatel1304/Hot-Properties)**<br>
-Real estate platform where users browse listings, save favourites, and message property owners. Includes JWT authentication and role-based access for users and admins.
+Real estate platform where users browse listings, save favourites, and message property owners. Includes JWT authentication and role-based access for users and admins.<br>
 `Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `Thymeleaf`
 
 **[AI Chatbot](https://github.com/MihirPatel1304/ai-chatbot)**<br>
-Terminal chatbot with multi-turn conversation memory, built on the Anthropic API.
+Terminal chatbot with multi-turn conversation memory, built on the Anthropic API.<br>
 `Python` `Anthropic API`
 
 **[Portfolio](https://github.com/MihirPatel1304/portfolio)**<br>
