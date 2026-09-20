@@ -12,19 +12,19 @@ I'm open to full-stack, backend, frontend, and AI engineering roles.
 
 ![Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,spring,django,mysql,postgres,sqlite)
 
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
-**Frontend:** React, Next.js
-**Backend:** Spring Boot, Django
-**Databases:** MySQL, PostgreSQL, SQLite
-**Familiar with:** C# / .NET, MongoDB, BigQuery
-**Currently learning:** AI engineering and LLM applications
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL
+- **Frontend:** React, Next.js
+- **Backend:** Spring Boot, Django
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Familiar with:** C# / .NET, MongoDB, BigQuery
+- **Currently learning:** AI engineering and LLM applications
 
 ---
 
 ## Featured Projects
 
-**[Personal Timeline](https://github.com/MihirPatel1304/Personal-Timeline)**
-Full-stack app that combines manual entries, GitHub commits, and Spotify listening history into one timeline. Uses Google, GitHub, and Spotify OAuth 2.0 with JWT auth.
+**[Personal Timeline](https://github.com/MihirPatel1304/Personal-Timeline)**<br>
+Full-stack app that combines manual entries, GitHub commits, and Spotify listening history into one timeline. Uses Google, GitHub, and Spotify OAuth 2.0 with JWT auth.<br>
 `React` `TypeScript` `ASP.NET Core` `SQLite`
 
 **[Hot Properties](https://github.com/MihirPatel1304/Hot-Properties)**
