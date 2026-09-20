@@ -8,6 +8,19 @@ I'm open to full-stack, backend, frontend, and AI engineering roles.
 
 ---
 
+## Tech Stack
+
+![Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,spring,django,mysql,postgres,sqlite)
+
+**Languages:** Python, Java, JavaScript, TypeScript, SQL
+**Frontend:** React, Next.js
+**Backend:** Spring Boot, Django
+**Databases:** MySQL, PostgreSQL, SQLite
+**Familiar with:** C# / .NET, MongoDB, BigQuery
+**Currently learning:** AI engineering and LLM applications
+
+---
+
 ## Featured Projects
 
 **[Personal Timeline](https://github.com/MihirPatel1304/Personal-Timeline)**
@@ -24,14 +37,3 @@ Terminal chatbot with multi-turn conversation memory, built on the Anthropic API
 
 **[Portfolio](https://github.com/MihirPatel1304/portfolio)**
 My personal site, deployed on Vercel.
-
----
-
-## Tech Stack
-
-**Languages:** Python, Java, JavaScript, TypeScript, SQL
-**Frontend:** React, Next.js
-**Backend:** Spring Boot, Django
-**Databases:** MySQL, PostgreSQL, SQLite
-**Familiar with:** C# / .NET, MongoDB, BigQuery
-**Currently learning:** AI engineering and LLM applications
