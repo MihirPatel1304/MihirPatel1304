@@ -27,13 +27,13 @@ I'm open to full-stack, backend, frontend, and AI engineering roles.
 Full-stack app that combines manual entries, GitHub commits, and Spotify listening history into one timeline. Uses Google, GitHub, and Spotify OAuth 2.0 with JWT auth.<br>
 `React` `TypeScript` `ASP.NET Core` `SQLite`
 
-**[Hot Properties](https://github.com/MihirPatel1304/Hot-Properties)**
+**[Hot Properties](https://github.com/MihirPatel1304/Hot-Properties)**<br>
 Real estate platform where users browse listings, save favourites, and message property owners. Includes JWT authentication and role-based access for users and admins.
 `Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `Thymeleaf`
 
-**[AI Chatbot](https://github.com/MihirPatel1304/ai-chatbot)**
+**[AI Chatbot](https://github.com/MihirPatel1304/ai-chatbot)**<br>
 Terminal chatbot with multi-turn conversation memory, built on the Anthropic API.
 `Python` `Anthropic API`
 
-**[Portfolio](https://github.com/MihirPatel1304/portfolio)**
+**[Portfolio](https://github.com/MihirPatel1304/portfolio)**<br>
 My personal site, deployed on Vercel.
